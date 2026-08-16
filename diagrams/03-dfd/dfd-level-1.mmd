@@ -1,0 +1,40 @@
+flowchart LR
+
+    subgraph INPUTS["Inputs"]
+        direction TB
+        LI["Learner"]
+        D2I[("D2 Scenarios")]
+        D3I[("D3 Attempts")]
+    end
+
+    subgraph FLOW["3.0 Investigate Scenario — Level 1"]
+        direction LR
+
+        P31(("3.1 Load Context"))
+        P32(("3.2 Inspect Evidence"))
+        P33(("3.3 Record Observation"))
+        P34(("3.4 Evaluate Cause"))
+        P35(("3.5 Save Step"))
+
+        P31 -->|Context| P32
+        P32 -->|Evidence context| P33
+        P33 -->|Observation| P34
+        P34 -->|Assessment| P35
+    end
+
+    subgraph OUTPUTS["Outputs"]
+        direction TB
+        LO["Learner"]
+        D3O[("D3 Attempts")]
+    end
+
+    D2I -->|Scenario evidence| P31
+    D3I -->|Existing attempt| P31
+
+    LI -->|Evidence selection| P32
+    LI -->|Observation & next step| P33
+    LI -->|Cause assessment| P34
+
+    P32 -->|Technical evidence| LO
+    P35 -->|Next-step context| LO
+    P35 -->|Updated attempt| D3O

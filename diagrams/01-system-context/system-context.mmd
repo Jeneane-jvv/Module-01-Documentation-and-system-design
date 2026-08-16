@@ -1,0 +1,10 @@
+flowchart LR
+    Learner["Learner<br/>Student, Intern or Junior Developer"]
+    Mentor["Mentor / Reviewer"]
+    System(("FirstCommit<br/>Engineering Readiness System"))
+
+    Learner -->|Profile information, scenario selection, investigation responses| System
+    System -->|Scenario content, technical evidence, feedback, progress| Learner
+
+    Mentor -->|Scenario content, review feedback| System
+    System -->|Learner attempts, reasoning trail, progress| Mentor
