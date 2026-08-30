@@ -646,7 +646,7 @@ Each design model has:
 | 06 | `evidence/screenshots/06-dfd-level-1-source-and-visual.png` | Process 3.0 decomposition and readable reasoning flow |
 | 07 | `evidence/screenshots/07-erd-source-and-visual.png` | ERD source, PK/FK fields and relationships |
 | 08 | `evidence/screenshots/08-wireframe-source-and-visual.png` | Main learner screen flow |
-| 09 | `evidence/screenshots/09-system-design-documentation.png` | **Pending:** final documentation source + Markdown preview after this update |
+| 09 | `evidence/screenshots/09-system-design-documentation.png` | Final documentation source + Markdown preview |
 
 The screenshots are supporting evidence. They do not replace the editable source files.
 

@@ -14,28 +14,7 @@ These screenshots were captured from the local Project 01 repository during the 
 | 06 | `06-dfd-level-1-source-and-visual.png` | Complete |
 | 07 | `07-erd-source-and-visual.png` | Complete |
 | 08 | `08-wireframe-source-and-visual.png` | Complete |
-| 09 | `09-system-design-documentation.png` | **Pending final documentation preview** |
-
-## Screenshot 09 — final step
-
-Open:
-
-`docs/System-Design-Documentation.md`
-
-Then use:
-
-**Ctrl + Shift + P → Markdown: Open Preview to the Side**
-
-Capture a view showing:
-
-- the file name;
-- Markdown source;
-- rendered preview;
-- a professional section containing either a design model or traceability table.
-
-Save it as:
-
-`09-system-design-documentation.png`
+| 09 | `09-system-design-documentation.png` | Complete |
 
 ## Evidence rule
 

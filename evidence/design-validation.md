@@ -14,7 +14,7 @@
 | DFD Level 1 | Yes | Yes | Yes | Yes |
 | ERD | Yes | Yes | Yes | Yes |
 | Wireframe | Yes | Yes | Yes | Yes |
-| Full system-design documentation | Updated | Pending final VS Code preview | Pending screenshot 09 | N/A |
+| Full system-design documentation | Updated | Yes | Yes | N/A |
 
 ## Validation outcomes
 
@@ -66,7 +66,7 @@
 - [x] Wireframe information can be supported by the ERD.
 - [x] Editable sources open and render in VS Code.
 - [x] Screenshots 01–08 capture source + live visual evidence.
-- [ ] Screenshot 09 must be taken after opening the updated `System-Design-Documentation.md` in Markdown preview.
+- [x] Screenshot 09 captures the updated `System-Design-Documentation.md` source + Markdown preview.
 
 ## Final review rule
 
