@@ -189,14 +189,14 @@ Application/cloud deployment becomes a core part of later portfolio projects.
 - skills-carried-forward summary;
 - authorship and provenance statement;
 - before-and-after reflection;
-- VS Code screenshot instructions.
+- VS Code screenshot evidence.
 
 ### VS Code validation evidence
 See **[VS Code Screenshot Evidence](evidence/screenshots/README.md)**.
 
 See **[Authorship & Provenance](evidence/AUTHORSHIP-AND-PROVENANCE.md)** for how my original practical work was reviewed and professionally refined through AI-assisted mentoring.
 
-Screenshots 01–08 have been captured and reviewed. Screenshot 09 is taken after the final system-design documentation is opened in Markdown preview. The evidence covers:
+Screenshots 01–09 have been captured and reviewed. Screenshot 09 is the approved System Design Documentation source + Markdown preview view. The evidence covers:
 
 1. repository structure;
 2. FRAME;
