@@ -4,10 +4,9 @@ The purpose of this step is to prove that the repository is not only a collectio
 
 ## 1. Open the repository
 
-1. Extract the ZIP.
-2. Open VS Code.
-3. Choose **File → Open Folder**.
-4. Select `Module-01-Documentation-and-system-design-FULL`.
+1. Open VS Code.
+2. Choose **File → Open Folder**.
+3. Select `Module-01-Documentation-and-system-design`.
 
 ## 2. Review the documentation
 
@@ -36,17 +35,17 @@ diagrams/04-erd/
 └── erd.svg
 ```
 
-## 4. Take your screenshots
+## 4. Review the screenshot evidence
 
-Follow:
+Open:
 
 `evidence/screenshots/README.md`
 
-The screenshots should come from **your own VS Code environment**. Do not edit personal data into the repository.
+Screenshots 01–09 provide supporting evidence from the VS Code review. They do not replace the editable source files.
 
-## 5. Send the screenshots back for review
+## 5. Review checklist
 
-The review will check:
+Confirm:
 
 - source readability
 - diagram logic
@@ -54,7 +53,6 @@ The review will check:
 - traceability to requirements
 - whether the visual output matches the source
 - naming and repository cleanliness
-- what should be fine-tuned before GitHub publication
 
 ## 6. Your final check
 
