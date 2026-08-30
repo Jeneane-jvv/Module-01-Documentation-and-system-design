@@ -268,11 +268,24 @@ Give a learner a small realistic technical problem and observe the **sequence of
 
 ## 5.4 Evidence status
 
-One anonymised FirstCommit interview has been completed with a participant in the primary target-user group.
+Two anonymised FirstCommit interviews have been completed with participants in the primary target-user group.
 
-The interview provides supporting evidence for Assumption A1 for that participant. Assumption A2 remains unvalidated, and the wider FirstCommit problem hypothesis is not treated as validated from a single interview.
+Both interviews provide supporting evidence for Assumption A1, creating an emerging repeated qualitative pattern across two participants. Assumption A2 remains unvalidated.
 
-See `../evidence/research-interview-p02.md` for the anonymised interview evidence and analysis.
+Repeated evidence has also emerged for:
+
+- difficulty connecting familiar technologies across system layers;
+- uncertainty about where to begin an unfamiliar multi-layer task;
+- using concrete system evidence to change troubleshooting direction;
+- breaking problems into smaller tests;
+- seeking help after independent investigation.
+
+The wider FirstCommit problem hypothesis is not treated as universally validated from two qualitative interviews.
+
+See:
+
+- `../evidence/research-interview-p02.md`
+- `../evidence/research-interview-p03.md`
 
 Planned research remains clearly separated from research actually performed.
 

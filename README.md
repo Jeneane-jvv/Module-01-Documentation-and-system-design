@@ -34,7 +34,7 @@ They may recognise frontend code, APIs, authentication, databases and testing in
 - when to ask for help;
 - how to explain what has already been checked.
 
-> **Evidence boundary:** this remains a design hypothesis. Initial external FirstCommit research has begun with one anonymised interview from a participant in the primary target-user group. This single interview provides supporting evidence but is not treated as validation of the wider problem hypothesis.
+> **Evidence boundary:** this remains a design hypothesis. Initial external FirstCommit research now includes two anonymised interviews from participants in the primary target-user group. Repeated supporting evidence has emerged for Assumption A1, but the wider problem hypothesis is not treated as universally validated from two qualitative interviews.
 
 ---
 
