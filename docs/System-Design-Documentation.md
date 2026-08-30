@@ -268,7 +268,13 @@ Give a learner a small realistic technical problem and observe the **sequence of
 
 ## 5.4 Evidence status
 
-No external FirstCommit interviews or surveys are claimed in this design baseline. Planned research remains clearly separated from research actually performed.
+One anonymised FirstCommit interview has been completed with a participant in the primary target-user group.
+
+The interview provides supporting evidence for Assumption A1 for that participant. Assumption A2 remains unvalidated, and the wider FirstCommit problem hypothesis is not treated as validated from a single interview.
+
+See `../evidence/research-interview-p02.md` for the anonymised interview evidence and analysis.
+
+Planned research remains clearly separated from research actually performed.
 
 ---
 

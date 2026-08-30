@@ -34,7 +34,7 @@ They may recognise frontend code, APIs, authentication, databases and testing in
 - when to ask for help;
 - how to explain what has already been checked.
 
-> **Evidence boundary:** this is a design hypothesis. External FirstCommit user research is planned and is not presented as completed research.
+> **Evidence boundary:** this remains a design hypothesis. Initial external FirstCommit research has begun with one anonymised interview from a participant in the primary target-user group. This single interview provides supporting evidence but is not treated as validation of the wider problem hypothesis.
 
 ---
 
